@@ -2,7 +2,7 @@
 
 Demo :- https://relaxed-cheesecake-48a604.netlify.app/
 
-The game is fully developed by using JavaScript.Some basic explaination about the game:-
+The game is fully developed by using JavaScript.Some basic explanation about the game:-
 
 1. class Player :- handle movements and animations of the main player character - 'The robotic spaceship'. player-game.png and player_jets-game.png are the image used for it.
  
